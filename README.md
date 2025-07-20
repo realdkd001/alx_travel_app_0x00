@@ -1,4 +1,4 @@
-# 🧳 alx\_travel\_app\_0x00
+#  alx\_travel\_app\_0x00
 
 A simplified travel booking API built with Django. This app allows users to view listings, make bookings, and leave reviews.
 
